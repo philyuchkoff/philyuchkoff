@@ -7,7 +7,9 @@
 
 
 ## Contacts
-
+<a href="https://twitter.com/philyuchkoff" target="_blank">   <img
+   align="left" alt="Vitaliy Filyuchkov | Twitter" width="24px" src="https://github.com/philyuchkoff/philyuchkoff/blob/main/assets/tw.png"
+   /> </a>
 <a href="https://t.me/philyuchkoff" target="_blank">   <img
    align="left" alt="Vitaliy Filyuchkov | Telegram" width="24px"
  src="https://github.com/philyuchkoff/philyuchkoff/blob/main/assets/tg.png"
