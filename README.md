@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Profile views](https://gpvc.arturio.dev/philyuchkoff)
+
 ## Stats
 <img src="https://github-readme-stats.vercel.app/api?username=philyuchkoff&show_icons=true&count_private=true">
 
@@ -20,4 +22,4 @@
    /> </a>
 
 
-![Profile views](https://gpvc.arturio.dev/philyuchkoff)
+
