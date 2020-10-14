@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-## Contacts 💭
-
+## Contacts
 <a href="https://twitter.com/philyuchkoff" target="_blank">
   <img align="left" alt="Vitaliy Filyuchkov | Twitter" width="24px" src="https://github.com/philyuchkoff/philyuchkoff/blob/main/assets/tw.png" />
 </a>
@@ -16,7 +15,8 @@
 </a>
 
 
-## Stats 📊
+
+## Stats
 <img src="https://github-readme-stats.vercel.app/api?username=philyuchkoff&show_icons=true&count_private=true">
 
 ![Profile views](https://gpvc.arturio.dev/philyuchkoff)
