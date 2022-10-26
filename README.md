@@ -20,4 +20,9 @@
 ### Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=philyuchkoff&show_icons=true&count_private=true)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=philyuchkoff&title=MultiLanguage,Stars,Commits,Followers)](https://github.com/philyuchkoff/github-profile-trophy)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=philyuchkoff)](https://git.io/streak-stats)
+
+
 ![Profile views](https://gpvc.arturio.dev/philyuchkoff)  
