@@ -11,6 +11,7 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/philyuchkoff) 
 
 ### Latest Medium Posts:
+- <a href="https://medium.com/p/953490c74b98" target="_blank">WAL-G — инструмент для управления бэкапом и восстановлением БД</a>
 - [WAL-G — инструмент для управления бэкапом и восстановлением БД](https://medium.com/p/953490c74b98)
 - [5 вариантов использования curl](https://medium.com/p/4854acd9fcd7)
 - [Использование Caddy](https://medium.com/p/a2c655465022)
