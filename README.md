@@ -20,7 +20,4 @@
 ### Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=philyuchkoff&show_icons=true&count_private=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=philyuchkoff)](https://git.io/streak-stats)
-
-
 ![Profile views](https://gpvc.arturio.dev/philyuchkoff)  
