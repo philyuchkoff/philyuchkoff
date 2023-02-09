@@ -11,6 +11,7 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/philyuchkoff) 
 
 ### Latest Medium Posts:
+- [How to debug / Как отлаживать](https://medium.com/p/3046aafa9f4c)
 - [How Complex Systems Fail / Как падают сложные системы](https://medium.com/p/270e577c778b)
 - [Полное руководство по управлению Grafana as code: инструменты, советы и хитрости](https://medium.com/p/1b2eb8a38181)
 - [WAL-G — инструмент для управления бэкапом и восстановлением БД](https://medium.com/p/953490c74b98)
