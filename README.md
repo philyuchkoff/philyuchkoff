@@ -11,9 +11,10 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/philyuchkoff) 
 
 ### Latest Medium Posts:
+- [Гарантии безотказной работы — практический подход](https://medium.com/p/c4a1e28d1016)
 - [Пошаговое руководство по расчету SLA, SLI и SLO для ваших IT-услуг](https://medium.com/p/85caa0f06afe)
-- [Bad Observability](https://medium.com/@philyuchkoff/bad-observability-8bb6b2042414)
-- [SRE Evangelist](https://medium.com/@philyuchkoff/sre-evangelist-5164a9edf719)
+- [Bad Observability](https://medium.com/p/8bb6b2042414)
+- [SRE Evangelist](https://medium.com/p/5164a9edf719)
 - [How to debug / Как отлаживать](https://medium.com/p/3046aafa9f4c)
 - [How Complex Systems Fail / Как падают сложные системы](https://medium.com/p/270e577c778b)
 - [Полное руководство по управлению Grafana as code: инструменты, советы и хитрости](https://medium.com/p/1b2eb8a38181)
