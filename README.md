@@ -15,7 +15,7 @@
 - [Пошаговое руководство по расчету SLA, SLI и SLO для ваших IT-услуг](https://medium.com/p/85caa0f06afe)
 - [Bad Observability](https://medium.com/p/8bb6b2042414)
 - [SRE Evangelist](https://medium.com/p/5164a9edf719)
-- [How to debug / Как отлаживать](https://medium.com/p/3046aafa9f4c)
+- [Как находить и исправлять ошибки](https://medium.com/p/3046aafa9f4c)
 - [How Complex Systems Fail / Как падают сложные системы](https://medium.com/p/270e577c778b)
 - [Полное руководство по управлению Grafana as code: инструменты, советы и хитрости](https://medium.com/p/1b2eb8a38181)
 - [WAL-G — инструмент для управления бэкапом и восстановлением БД](https://medium.com/p/953490c74b98)
