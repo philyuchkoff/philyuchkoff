@@ -11,6 +11,7 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/philyuchkoff) 
 
 ### Latest Medium Posts:
+- [How to Build Software like an SRE](https://medium.com/p/3cd789f5862b)
 - [“Надежность” и “Доступность” — в чём разница?](https://medium.com/p/c8b7bd2596c4)
 - [Гарантии безотказной работы — практический подход](https://medium.com/p/c4a1e28d1016)
 - [Пошаговое руководство по расчету SLA, SLI и SLO для ваших IT-услуг](https://medium.com/p/85caa0f06afe)
