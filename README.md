@@ -1,4 +1,3 @@
-<h2 align="center">Jambo! U hali gani? Jina langu ni Vitaliy <img src=assets/tz.png alt="I Love Tanzania! :)" height="32" /></h2>
 <h3 align="center">SRE Lead in Cloud Division of largest telecom operator in Russia</h3>
 
 ### You can connect with me:
