@@ -10,6 +10,8 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/philyuchkoff) 
 
 ### Latest Medium Posts:
+- [Как работает Load Average](https://medium.com/p/7a55d6c3d700)
+- [Как работает OOM-Killer](https://medium.com/p/81ad4d0c0792)
 - [How to Build Software like an SRE](https://medium.com/p/3cd789f5862b)
 - [“Надежность” и “Доступность” — в чём разница?](https://medium.com/p/c8b7bd2596c4)
 - [Гарантии безотказной работы — практический подход](https://medium.com/p/c4a1e28d1016)
