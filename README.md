@@ -10,6 +10,7 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/philyuchkoff) 
 
 ### Latest Medium Posts:
+- [Дилемма повторных попыток подключения в распределенных системах](https://medium.com/p/a5ece761282c)
 - [Я случайно сэкономил полмиллиона долларов](https://medium.com/p/40086172f5cc)
 - [Как работает Load Average](https://medium.com/p/7a55d6c3d700)
 - [Как работает OOM-Killer](https://medium.com/p/81ad4d0c0792)
