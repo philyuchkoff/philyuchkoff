@@ -31,5 +31,3 @@
 
 ### Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=philyuchkoff&show_icons=true&count_private=true)
-
-![Profile views](https://gpvc.arturio.dev/philyuchkoff)  
