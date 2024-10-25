@@ -10,6 +10,7 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/philyuchkoff) 
 
 ### Latest Medium Posts:
+- [Партизанское руководство по проведению собеседований (версия 3.0))](https://medium.com/p/54a0994cdf46)
 - [Про реальность добавления девяток к аптайму](https://medium.com/p/5056115b2322)
 - [Дилемма повторных попыток подключения в распределенных системах](https://medium.com/p/a5ece761282c)
 - [Я случайно сэкономил полмиллиона долларов](https://medium.com/p/40086172f5cc)
