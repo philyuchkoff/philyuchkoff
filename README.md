@@ -1,4 +1,4 @@
-<h3 align="center">SRE Head in the largest provider of cloud and AI technologies in Russia</h3>
+<h3 align="center">Hi, i'm SRE Head in the largest provider of cloud and AI technologies in Russia</h3>
 
 ### You can connect with me:
 
