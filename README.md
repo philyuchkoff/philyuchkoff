@@ -9,7 +9,8 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/philyuchkoff/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/philyuchkoff) 
 
-### Latest Medium Posts:
+### My Latest Posts:
+- [From Signals to Reliability: SLOs, Runbooks and Post-Mortems](https://srengineer.ru/sre-observability-slo-runbooks/)
 - [Хорошо спроектированное программное обеспечение должно быть «слишком простым»](https://srengineer.ru/system-design/)
 - [SLI Compass: точность и детализация](https://srengineer.ru/sli-compass/)
 - [Что такое и как работает перцептрон](https://srengineer.ru/perceptron/)
