@@ -47,6 +47,3 @@
 - [Использование Caddy](https://medium.com/p/a2c655465022)
 - [Что такое файловый дескриптор](https://medium.com/p/1dbdf14ec811)
 - [Exit codes Docker-контейнеров](https://medium.com/p/45e1ea89b648)
-
-### Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=philyuchkoff&show_icons=true&count_private=true)
