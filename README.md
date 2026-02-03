@@ -10,6 +10,7 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/philyuchkoff) 
 
 ### My Latest Posts:
+- [🦥 SLOzy: SLO made lazy and easy - a tool for creating SLOs (Service Level Objectives) in OpenSLO format with full alerting support](https://slozy.ru/)
 - [From Signals to Reliability: SLOs, Runbooks and Post-Mortems](https://srengineer.ru/sre-observability-slo-runbooks/)
 - [Хорошо спроектированное программное обеспечение должно быть «слишком простым»](https://srengineer.ru/system-design/)
 - [SLI Compass: точность и детализация](https://srengineer.ru/sli-compass/)
