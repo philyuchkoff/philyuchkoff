@@ -10,6 +10,8 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/philyuchkoff) 
 
 ### My Latest Posts:
+- [Как читать книги про SRE, чтобы они приносили пользу](https://srengineer.ru/books-about-sre/)
+- [SRE Agent: доверять нельзя контролировать](https://srengineer.ru/sre-agent/)
 - [Происходит нечто грандиозное](https://srengineer.ru/something-big-is-happening/)
 - [🦥 SLOzy: SLO made lazy and easy: a tool for creating SLOs (Service Level Objectives) in OpenSLO format with full alerting support](https://slozy.ru/)
 - [From Signals to Reliability: SLOs, Runbooks and Post-Mortems](https://srengineer.ru/sre-observability-slo-runbooks/)
