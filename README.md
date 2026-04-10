@@ -10,6 +10,7 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/philyuchkoff) 
 
 ### My Latest Posts:
+- [Как я боролся с OOM Killer в моем приложении](https://srengineer.ru/oom-killer/)
 - [Как читать книги про SRE, чтобы они приносили пользу](https://srengineer.ru/books-about-sre/)
 - [SRE Agent: доверять нельзя контролировать](https://srengineer.ru/sre-agent/)
 - [Происходит нечто грандиозное](https://srengineer.ru/something-big-is-happening/)
