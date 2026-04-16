@@ -115,6 +115,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=philyuchkoff&show_icons=true&theme=light" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=philyuchkoff&layout=compact&theme=light" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=philyuchkoff&show_icons=true&theme=default" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=philyuchkoff&layout=compact&theme=default" alt="Top Languages" height="150"/>
 </p>
