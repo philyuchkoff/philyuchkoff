@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/🦥_SLOzy-SLO_made_lazy_&_easy-2ea44f?style=for-the-badge" alt="SLOzy"/>
   </a>
   <br/>
-  <i>Service for create SLOs (Service Level Objectives) in OpenSLO format with full alerting support</i>
+  <i>Service for create SLOs (Service Level Objectives) in OpenSLO format with full alerting support (Open Source)</i>
 </p>
 
 <p align="left">
