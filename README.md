@@ -31,6 +31,7 @@
 <div align="left">
 
 **🆕 Recent**
+- [SRE Skills — ваш личный SRE](https://srengineer.ru/sre-skills/))
 - [Как я боролся с OOM Killer в моем приложении](https://srengineer.ru/oom-killer/)
 - [Как читать книги про SRE, чтобы они приносили пользу](https://srengineer.ru/books-about-sre/)
 - [SRE Agent: доверять нельзя контролировать](https://srengineer.ru/sre-agent/)
