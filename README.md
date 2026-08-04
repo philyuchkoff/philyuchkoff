@@ -9,7 +9,7 @@
 ### 🚀 Featured Projects
 
 <p align="left">
-  <a href="https://slozy.ru/">
+  <a href="https://slozy.net/">
     <img src="https://img.shields.io/badge/🦥_SLOzy-SLO_made_lazy_&_easy-2ea44f?style=for-the-badge" alt="SLOzy"/>
   </a>
   <br/>
