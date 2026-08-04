@@ -8,21 +8,7 @@
 
 ### 🚀 Featured Projects
 
-<p align="left">
-  <a href="https://slozy.net/">
-    <img src="https://img.shields.io/badge/🦥_SLOzy-SLO_made_lazy_&_easy-2ea44f?style=for-the-badge" alt="SLOzy"/>
-  </a>
-  <br/>
-  <i>Service for create SLOs (Service Level Objectives) in OpenSLO format with full alerting support (Open Source)</i>
-</p>
-
-<p align="left">
-  <a href="https://srebook.ru/">
-    <img src="https://img.shields.io/badge/📚_SREBook-SRE_library-1f6feb?style=for-the-badge" alt="SREBook"/>
-  </a>
-  <br/>
-  <i>My book about Site Reriability Engineering for non-engineers (in Russian)</i>
-</p>
+<p align="left"> <a href="https://slozy.ru/"> <img src="https://img.shields.io/badge/🦥_SLOzy-SLO_made_lazy_&_easy-2ea44f?style=for-the-badge" alt="SLOzy"/> </a> <br/> <i>Service for create SLOs (Service Level Objectives) in OpenSLO format with full alerting support (Open Source)</i> </p><p align="left"> <a href="https://slozy.net/"> <img src="https://img.shields.io/badge/🌐_SLOzy.Net-SLO_Management_Platform-6f42c1?style=for-the-badge" alt="SLOzy.Net"/> </a> <br/> <i>Commercial SLO management platform for DevOps, SREs, and engineering teams. Real-time monitoring, multi-channel alerts, GitOps workflows, RBAC, and Prometheus integration</i> </p><p align="left"> <a href="https://srebook.ru/"> <img src="https://img.shields.io/badge/📚_SREBook-SRE_library-1f6feb?style=for-the-badge" alt="SREBook"/> </a> <br/> <i>My book about Site Reliability Engineering for non-engineers (in Russian)</i> </p>
 
 ---
 
