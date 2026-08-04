@@ -99,9 +99,19 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Top Repositories
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=philyuchkoff&show_icons=true&theme=default" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=philyuchkoff&layout=compact&theme=default" alt="Top Languages" height="150"/>
-</p>
+| Project | ⭐ | 🍴 |
+|---|---|---|
+| [HAProxy-3-RPM-builder](https://github.com/philyuchkoff/HAProxy-3-RPM-builder) — Build latest HAProxy 3 binary for CentOS 8/9 with Prometheus metrics support | ![](https://img.shields.io/github/stars/philyuchkoff/HAProxy-3-RPM-builder) | ![](https://img.shields.io/github/forks/philyuchkoff/HAProxy-3-RPM-builder) |
+| [openssl-RPM-Builder](https://github.com/philyuchkoff/openssl-RPM-Builder) — Build latest OpenSSL binary for CentOS/RHEL | ![](https://img.shields.io/github/stars/philyuchkoff/openssl-RPM-Builder) | ![](https://img.shields.io/github/forks/philyuchkoff/openssl-RPM-Builder) |
+| [slozy-oss](https://github.com/philyuchkoff/slozy-oss) — Automated SLO creation for product teams. Full alerting, OpenSLO YAML format | ![](https://img.shields.io/github/stars/philyuchkoff/slozy-oss) | ![](https://img.shields.io/github/forks/philyuchkoff/slozy-oss) |
+| [prometheus-alerts](https://github.com/philyuchkoff/prometheus-alerts) — Collection of useful Prometheus alerting rules | ![](https://img.shields.io/github/stars/philyuchkoff/prometheus-alerts) | ![](https://img.shields.io/github/forks/philyuchkoff/prometheus-alerts) |
+| [sberspasibo](https://github.com/philyuchkoff/sberspasibo) — Напоминание 1-го числа месяца о выборе категорий в СберСпасибо | ![](https://img.shields.io/github/stars/philyuchkoff/sberspasibo) | ![](https://img.shields.io/github/forks/philyuchkoff/sberspasibo) |
+| [aviaweather](https://github.com/philyuchkoff/aviaweather) — Декодер авиационных METAR/TAF сообщений на русском языке | ![](https://img.shields.io/github/stars/philyuchkoff/aviaweather) | ![](https://img.shields.io/github/forks/philyuchkoff/aviaweather) |
+| [allure-parser](https://github.com/philyuchkoff/allure-parser) — Парсер JSON-отчетов Allure с экспортом метрик в Prometheus | ![](https://img.shields.io/github/stars/philyuchkoff/allure-parser) | ![](https://img.shields.io/github/forks/philyuchkoff/allure-parser) |
+| [health-calc](https://github.com/philyuchkoff/health-calc) — Health Score for services based on Prometheus metrics, Circuit Breaker, Telegram alerts | ![](https://img.shields.io/github/stars/philyuchkoff/health-calc) | ![](https://img.shields.io/github/forks/philyuchkoff/health-calc) |
+| [nef-jpg](https://github.com/philyuchkoff/nef-jpg) — Bash-скрипт для чистки фотоархивов: убирает непарные RAW-файлы | ![](https://img.shields.io/github/stars/philyuchkoff/nef-jpg) | ![](https://img.shields.io/github/forks/philyuchkoff/nef-jpg) |
+| [wal-g-centos](https://github.com/philyuchkoff/wal-g-centos) — Latest WAL-G binary for CentOS (backup/restore for databases in the Cloud) | ![](https://img.shields.io/github/stars/philyuchkoff/wal-g-centos) | ![](https://img.shields.io/github/forks/philyuchkoff/wal-g-centos) |
+| [jodit-footnote-plugin](https://github.com/philyuchkoff/jodit-footnote-plugin) — Plugin for Jodit Editor v4 adding a toolbar button for numbered footnotes | ![](https://img.shields.io/github/stars/philyuchkoff/jodit-footnote-plugin) | ![](https://img.shields.io/github/forks/philyuchkoff/jodit-footnote-plugin) |
+| [grafana-backup](https://github.com/philyuchkoff/grafana-backup) — Scripts for backup and restore Grafana settings via Grafana API | ![](https://img.shields.io/github/stars/philyuchkoff/grafana-backup) | ![](https://img.shields.io/github/forks/philyuchkoff/grafana-backup) |
