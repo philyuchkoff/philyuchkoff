@@ -80,25 +80,6 @@
 
 ---
 
-### 📫 Connect with me
-
-<p align="left">
-  <a href="https://t.me/philyuchkoff">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-  <a href="mailto:philyuchkoff@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/philyuchkoff/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/philyuchkoff/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
-
----
-
 ### 📊 Top Repositories
 
 | Project | ⭐ | 🍴 |
@@ -115,3 +96,22 @@
 | [nef-jpg](https://github.com/philyuchkoff/nef-jpg) — Bash-скрипт для чистки фотоархивов: убирает непарные RAW-файлы | ![](https://img.shields.io/github/stars/philyuchkoff/nef-jpg) | ![](https://img.shields.io/github/forks/philyuchkoff/nef-jpg) |
 | [jodit-footnote-plugin](https://github.com/philyuchkoff/jodit-footnote-plugin) — Plugin for Jodit Editor v4 adding a toolbar button for numbered footnotes | ![](https://img.shields.io/github/stars/philyuchkoff/jodit-footnote-plugin) | ![](https://img.shields.io/github/forks/philyuchkoff/jodit-footnote-plugin) |
 | [grafana-backup](https://github.com/philyuchkoff/grafana-backup) — Scripts for backup and restore Grafana settings via Grafana API | ![](https://img.shields.io/github/stars/philyuchkoff/grafana-backup) | ![](https://img.shields.io/github/forks/philyuchkoff/grafana-backup) |
+
+---
+
+### 📫 Connect with me
+
+<p align="left">
+  <a href="https://t.me/philyuchkoff">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+  <a href="mailto:philyuchkoff@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/philyuchkoff/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/philyuchkoff/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
