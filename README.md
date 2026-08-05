@@ -1,6 +1,6 @@
 <h3 align="center">👋 Hi, I'm Vitalii Philyuchkoff, SRE Head at the largest provider of cloud and AI technologies in Russia</h3>
 
-<h4 align="center">SRE · SLO/SLI · Observability · Engineering Management · Kubernetes · Prometheus</h4>
+<h4 align="center">SRE · SLO/SLI · Observability · Engineering Management</h4>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=philyuchkoff&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
