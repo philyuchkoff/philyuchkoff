@@ -49,6 +49,20 @@
 
 ---
 
+### 🤝 Contributing to
+
+- **[cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)** [![Stars](https://img.shields.io/github/stars/cathrynlavery/diagram-design?style=flat&color=gold)](https://github.com/cathrynlavery/diagram-design) — 29 editorial diagram types for Claude Code. Self-contained HTML + SVG, no Mermaid slop.
+- **[danluu/post-mortems](https://github.com/danluu/post-mortems)** [![Stars](https://img.shields.io/github/stars/danluu/post-mortems?style=flat&color=gold)](https://github.com/danluu/post-mortems) — A collection of postmortems.
+- **[stefanprodan/dockprom](https://github.com/stefanprodan/dockprom)** [![Stars](https://img.shields.io/github/stars/stefanprodan/dockprom?style=flat&color=gold)](https://github.com/stefanprodan/dockprom) — Docker hosts and containers monitoring with Prometheus, Grafana, cAdvisor, NodeExporter and AlertManager.
+- **[nasa-gibs/worldview](https://github.com/nasa-gibs/worldview)** [![Stars](https://img.shields.io/github/stars/nasa-gibs/worldview?style=flat&color=gold)](https://github.com/nasa-gibs/worldview) — Interactive interface for browsing global, full-resolution satellite imagery.
+- **[ConnorBrereton/SiteReliabilityEngineering](https://github.com/ConnorBrereton/SiteReliabilityEngineering)** [![Stars](https://img.shields.io/github/stars/ConnorBrereton/SiteReliabilityEngineering?style=flat&color=gold)](https://github.com/ConnorBrereton/SiteReliabilityEngineering) — Notes on Site Reliability Engineering.
+- **[blind-oracle/nginx-prometheus](https://github.com/blind-oracle/nginx-prometheus)** [![Stars](https://img.shields.io/github/stars/blind-oracle/nginx-prometheus?style=flat&color=gold)](https://github.com/blind-oracle/nginx-prometheus) — Turn Nginx logs into Prometheus metrics.
+- **[ryotarai/prometheus-tsdb-dump](https://github.com/ryotarai/prometheus-tsdb-dump)** [![Stars](https://img.shields.io/github/stars/ryotarai/prometheus-tsdb-dump?style=flat&color=gold)](https://github.com/ryotarai/prometheus-tsdb-dump) — Reads a Prometheus TSDB block and writes metrics.
+- **[Eden-Eldith/ChatInsights](https://github.com/Eden-Eldith/ChatInsights)** [![Stars](https://img.shields.io/github/stars/Eden-Eldith/ChatInsights?style=flat&color=gold)](https://github.com/Eden-Eldith/ChatInsights) — The Personal Knowledge Graph You Didn't Know You Already Wrote.
+- **[maatt/gurushots-auto-vote-and-boost](https://github.com/maatt/gurushots-auto-vote-and-boost)** [![Stars](https://img.shields.io/github/stars/maatt/gurushots-auto-vote-and-boost?style=flat&color=gold)](https://github.com/maatt/gurushots-auto-vote-and-boost) — Gurushots automatic voting script with free boost checker.
+
+---
+
 ### 📫 Connect with me
 
 <p align="left">
