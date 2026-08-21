@@ -38,7 +38,6 @@
 - **[prometheus-alerts](https://github.com/philyuchkoff/prometheus-alerts)** [![Stars](https://img.shields.io/github/stars/philyuchkoff/prometheus-alerts?style=flat&color=gold)](https://github.com/philyuchkoff/prometheus-alerts) — Collection of useful Prometheus alerting rules.
 - **[wal-g-centos](https://github.com/philyuchkoff/wal-g-centos)** [![Stars](https://img.shields.io/github/stars/philyuchkoff/wal-g-centos?style=flat&color=gold)](https://github.com/philyuchkoff/wal-g-centos) — Latest WAL-G binary for CentOS (backup/restore for databases in the Cloud).
 - **[health-calc](https://github.com/philyuchkoff/health-calc)** [![Stars](https://img.shields.io/github/stars/philyuchkoff/health-calc?style=flat&color=gold)](https://github.com/philyuchkoff/health-calc) — Health Score for services based on Prometheus metrics, Circuit Breaker, Telegram alerts.
-- **[sberspasibo](https://github.com/philyuchkoff/sberspasibo)** [![Stars](https://img.shields.io/github/stars/philyuchkoff/sberspasibo?style=flat&color=gold)](https://github.com/philyuchkoff/sberspasibo) — Напоминание 1-го числа месяца о выборе категорий в СберСпасибо.
 - **[aviaweather](https://github.com/philyuchkoff/aviaweather)** [![Stars](https://img.shields.io/github/stars/philyuchkoff/aviaweather?style=flat&color=gold)](https://github.com/philyuchkoff/aviaweather) — Декодер авиационных METAR/TAF сообщений на русском языке.
 - **[allure-parser](https://github.com/philyuchkoff/allure-parser)** [![Stars](https://img.shields.io/github/stars/philyuchkoff/allure-parser?style=flat&color=gold)](https://github.com/philyuchkoff/allure-parser) — Парсер JSON-отчетов Allure с экспортом метрик в Prometheus.
 - **[nef-jpg](https://github.com/philyuchkoff/nef-jpg)** [![Stars](https://img.shields.io/github/stars/philyuchkoff/nef-jpg?style=flat&color=gold)](https://github.com/philyuchkoff/nef-jpg) — Bash-скрипт для чистки фотоархивов: убирает непарные RAW-файлы.
@@ -57,7 +56,6 @@
 - **[blind-oracle/nginx-prometheus](https://github.com/blind-oracle/nginx-prometheus)** [![Stars](https://img.shields.io/github/stars/blind-oracle/nginx-prometheus?style=flat&color=gold)](https://github.com/blind-oracle/nginx-prometheus) — Turn Nginx logs into Prometheus metrics.
 - **[ryotarai/prometheus-tsdb-dump](https://github.com/ryotarai/prometheus-tsdb-dump)** [![Stars](https://img.shields.io/github/stars/ryotarai/prometheus-tsdb-dump?style=flat&color=gold)](https://github.com/ryotarai/prometheus-tsdb-dump) — Reads a Prometheus TSDB block and writes metrics.
 - **[Eden-Eldith/ChatInsights](https://github.com/Eden-Eldith/ChatInsights)** [![Stars](https://img.shields.io/github/stars/Eden-Eldith/ChatInsights?style=flat&color=gold)](https://github.com/Eden-Eldith/ChatInsights) — The Personal Knowledge Graph You Didn't Know You Already Wrote.
-- **[maatt/gurushots-auto-vote-and-boost](https://github.com/maatt/gurushots-auto-vote-and-boost)** [![Stars](https://img.shields.io/github/stars/maatt/gurushots-auto-vote-and-boost?style=flat&color=gold)](https://github.com/maatt/gurushots-auto-vote-and-boost) — Gurushots automatic voting script with free boost checker.
 
 ---
 
