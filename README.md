@@ -14,22 +14,6 @@
 
 ---
 
-### 📝 Latest Blog Posts
-
-<div align="left">
-
-- [SRE Skills — ваш личный SRE](https://srengineer.ru/sre-skills/)
-- [Как я боролся с OOM Killer в моем приложении](https://srengineer.ru/oom-killer/)
-- [Как читать книги про SRE, чтобы они приносили пользу](https://srengineer.ru/books-about-sre/)
-- [SRE Agent: доверять нельзя контролировать](https://srengineer.ru/sre-agent/)
-- [Происходит нечто грандиозное](https://srengineer.ru/something-big-is-happening/)
-
-📚 [Все статьи на srengineer.ru →](https://srengineer.ru/) · [Medium →](https://medium.com/@philyuchkoff)
-
-</div>
-
----
-
 ### 📊 Top Repositories
 
 - **[HAProxy-3-RPM-builder](https://github.com/philyuchkoff/HAProxy-3-RPM-builder)** [![Stars](https://img.shields.io/github/stars/philyuchkoff/HAProxy-3-RPM-builder?style=flat&color=gold)](https://github.com/philyuchkoff/HAProxy-3-RPM-builder) — Build latest HAProxy 3 binary for CentOS 8/9 with Prometheus metrics support.
@@ -58,6 +42,22 @@
 - **[blind-oracle/nginx-prometheus](https://github.com/blind-oracle/nginx-prometheus)** [![Stars](https://img.shields.io/github/stars/blind-oracle/nginx-prometheus?style=flat&color=gold)](https://github.com/blind-oracle/nginx-prometheus) — Turn Nginx logs into Prometheus metrics.
 - **[ryotarai/prometheus-tsdb-dump](https://github.com/ryotarai/prometheus-tsdb-dump)** [![Stars](https://img.shields.io/github/stars/ryotarai/prometheus-tsdb-dump?style=flat&color=gold)](https://github.com/ryotarai/prometheus-tsdb-dump) — Reads a Prometheus TSDB block and writes metrics.
 - **[Eden-Eldith/ChatInsights](https://github.com/Eden-Eldith/ChatInsights)** [![Stars](https://img.shields.io/github/stars/Eden-Eldith/ChatInsights?style=flat&color=gold)](https://github.com/Eden-Eldith/ChatInsights) — The Personal Knowledge Graph You Didn't Know You Already Wrote.
+
+---
+
+### 📝 Latest Blog Posts
+
+<div align="left">
+
+- [SRE Skills — ваш личный SRE](https://srengineer.ru/sre-skills/)
+- [Как я боролся с OOM Killer в моем приложении](https://srengineer.ru/oom-killer/)
+- [Как читать книги про SRE, чтобы они приносили пользу](https://srengineer.ru/books-about-sre/)
+- [SRE Agent: доверять нельзя контролировать](https://srengineer.ru/sre-agent/)
+- [Происходит нечто грандиозное](https://srengineer.ru/something-big-is-happening/)
+
+📚 [Все статьи на srengineer.ru →](https://srengineer.ru/) · [Medium →](https://medium.com/@philyuchkoff)
+
+</div>
 
 ---
 
